@@ -10,8 +10,6 @@
   - [Database for a School](https://github.com/AyomideJohnson/URL)
 - <b>Agile Programming</b>
   - [Structures of Agile programming](https://github.com/AyomideJohnson/URL)
-- <b>Object-Oriented Design & Programming</b>
-  - [Design implementation](https://github.com/AyomideJohnson/URL)
 
 <h2>🔭 Research Project:</h2>
 
