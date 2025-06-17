@@ -13,10 +13,16 @@
 - <b>Object-Oriented Design & Programming</b>
   - [Design implementation](https://github.com/AyomideJohnson/URL)
 
-<h2>🔭 Research Project</h2>
+<h2>🔭 Research Project:</h2>
 
- <b>Beyond Words (Python, API, Text Mining)</b>
+- <b>Beyond Words (Python, API, Text Mining)</b>
   - [Examining Implicit Social Expectations in Job Descriptions for Computer Science Positions ](https://github.com/AyomideJohnson/URL)
+
+<h2>Operating Systems:</h2>
+
+- <b>File Directory</b>
+  - [File_Simulation](https://github.com/admydm/file_sim)
+
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
