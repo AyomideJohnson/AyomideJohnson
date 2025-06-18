@@ -19,6 +19,14 @@
 - <b>File Directory</b>
   - [File_Simulation](https://github.com/admydm/file_sim)
 
+<h2>Software Testing:</h2>
+
+- <b>Software Quality Assurance and Testing</b>
+  - [Project1](https://gitlab.com/cosc442-johnson-project/Project1)
+  - [Project2](https://gitlab.com/cosc442-johnson-project/Project2)
+  - [Project3](https://gitlab.com/cosc442-johnson-project/review)
+  - [Project4](https://gitlab.com/cosc442-johnson-project/Project4)
+
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
