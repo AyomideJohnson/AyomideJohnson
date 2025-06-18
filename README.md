@@ -8,8 +8,6 @@
   - [Well Track](https://github.com/JacobJed/COSC412Project)
 - <b> SQL Database with Gui (MySQL, Java)</b>
   - [Database for a School](https://github.com/AyomideJohnson/URL)
-- <b>Agile Programming</b>
-  - [Structures of Agile programming](https://github.com/AyomideJohnson/URL)
 
 <h2>🔭 Research Project:</h2>
 
