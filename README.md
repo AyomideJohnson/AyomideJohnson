@@ -14,7 +14,7 @@
 <h2>🔭 Research Project:</h2>
 
 - <b>Beyond Words (Python, API, Text Mining)</b>
-  - [Examining Implicit Social Expectations in Job Descriptions for Computer Science Positions ](https://github.com/AyomideJohnson/URL)
+  - [Examining Implicit Social Expectations in Job Descriptions for Computer Science Positions ](https://github.com/AyomideJohnson/Beyond-words.git)
 
 <h2>Operating Systems:</h2>
 
