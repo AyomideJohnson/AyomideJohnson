@@ -13,6 +13,9 @@
 
 - <b>Beyond Words (Python, API, Text Mining)</b>
   - [Examining Implicit Social Expectations in Job Descriptions for Computer Science Positions ](https://github.com/AyomideJohnson/Beyond-words.git)
+ 
+- <b>Gains (Python, API, AI & ML)</b>
+  - [](()
 
 <h2>Operating Systems:</h2>
 
