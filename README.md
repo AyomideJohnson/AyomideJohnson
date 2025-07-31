@@ -15,7 +15,7 @@
   - [Examining Implicit Social Expectations in Job Descriptions for Computer Science Positions ](https://github.com/AyomideJohnson/Beyond-words.git)
  
 - <b>Gains (Python, API, AI & ML)</b>
-  - 
+  - [A gamified gym app](https://github.com/AyomideJohnson/Gains)
 
 <h2>Operating Systems:</h2>
 
