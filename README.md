@@ -20,7 +20,7 @@
 <h2>Operating Systems:</h2>
 
 - <b>File Directory</b>
-  - [File_Simulation](https://github.com/admydm/file_sim)
+  - [File_Simulation](https://github.com/AyomideJohnson/File_Sim)
 
 <h2>Software Testing:</h2>
 
