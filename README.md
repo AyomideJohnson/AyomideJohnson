@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice/Leetcode</b>
   - [Praciting DS & Algos in Java](https://github.com/AyomideJohnson/URL)
 - <b> Web App (React, NodeJS)</b>
-  - [Well Track](https://github.com/JacobJed/COSC412Project)
+  - [Well Track](https://github.com/JacobJed/COSC412Project)](https://github.com/AyomideJohnson/Well_Track)
 - <b> SQL Database with Gui (MySQL, Java)</b>
   - [Database for a School](https://github.com/AyomideJohnson/URL)
 
