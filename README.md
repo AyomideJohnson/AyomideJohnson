@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice/Leetcode</b>
-  - [Praciting DS & Algos in Java](https://github.com/AyomideJohnson/URL)
 - <b> Web App (React, NodeJS)</b>
   - [Well Track](https://github.com/AyomideJohnson/Well_Track)
 
