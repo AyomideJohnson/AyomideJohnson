@@ -14,12 +14,12 @@
 - <b>Gains (Python, API, AI & ML)</b>
   - [A gamified gym app](https://github.com/AyomideJohnson/Gains)
 
-<h2>Operating Systems:</h2>
+<h2>⚙️Operating Systems:</h2>
 
 - <b>File Directory</b>
   - [File_Simulation](https://github.com/AyomideJohnson/File_Sim)
 
-<h2>Software Testing:</h2>
+<h2>💻Software Testing:</h2>
 
 - <b>Software Quality Assurance and Testing</b>
   - [Project1](https://gitlab.com/cosc442-johnson-project/Project1)
